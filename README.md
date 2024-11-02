@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ZIAD</h1>
-<h3 align="center">As a web developer, I am eager to learn and improve my skills in the ever-changing world of technology I enjoy building websites and applications that focus on both functionality and user-friendly design.</h3>
+<h3 align="center">As a web developer, I am eager to learn and improve my skills in the ever-changing world of technology I enjoy building websites and applications that focus on both functionality and user-friendly design</h3>
 
 🔭 I’m currently studying
 
-<h3 align="left">Skills</h3>
+<h3 align="left">Languages</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
