@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZIAD</h1>
 <h3 align="center">As a web developer, I am eager to learn and improve my skills in the ever-changing world of technology I enjoy building websites and applications that focus on both functionality and user-friendly design</h3>
 
-🔭 I’m currently studying new languages
+🔭 I’m currently studying
 
 <h3 align="left">Languages</h3>
 <p align="left">
